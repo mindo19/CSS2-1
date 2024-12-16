@@ -1,0 +1,55 @@
+#erti{margin-left: 30px ;
+font-size:30px;
+font-weight: bold;
+
+}
+
+#main{
+    display: flex;
+    width: 50%;
+    cursor: pointer;
+    
+}
+#box1{
+   width: 100%;
+   display: flex;
+  justify-content: space-around;
+   margin-left: 50px;
+   font-size: 30px;
+
+}
+#container{
+    
+    padding: 0px;
+    margin: 0px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    opacity: 0.9;
+   
+}
+#cardmain{
+    width: 100%;
+}
+#card{
+    margin-left: 200px;
+    width: 30%;
+    font-size: 30px;
+    font-weight: bold;
+}
+#card a{
+color:red;
+    margin-left: 100px;
+    font-size: 30px;
+}
+#card button{
+       padding: 15px; 
+    margin-left: 100px;
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    
+}
